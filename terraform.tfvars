@@ -1,6 +1,0 @@
-AWS_ACCESS_KEY="AKIATBRUV662XDASS2W4"
-AWS_SECRET_KEY="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"
-VPC_ID="vpc-0f1ffacd4f02f78a8"
-SUBNET1="subnet-04a806f939ba6ef3b"
-SUBNET2="subnet-0fe78d8ade1cd5f33"
-CLUSTER_NAME="peter-eks-cluster"
